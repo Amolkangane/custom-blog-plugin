@@ -1,0 +1,16 @@
+/*
+Theme Name: Custom Blog Theme
+Author: Amol Kangane
+Version: 1.0
+*/
+
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.blog-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 15px;
+}
