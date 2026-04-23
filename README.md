@@ -1,2 +1,16 @@
-# custom-blog-plugin
-ustom WordPress theme and a plugin that integrates external APIs using wp_remote_get, implemented caching with transients, and exposed custom REST endpoints
+# Custom WordPress Blog + API Plugin
+
+## Features
+- Custom Theme Development
+- Plugin using Hooks
+- External API Integration
+- Caching using Transients
+
+## Setup
+1. Install WordPress
+2. Upload theme & plugin
+3. Activate plugin
+4. Use shortcode [api_posts]
+
+## Author
+Amol Kangane
